@@ -1,0 +1,15 @@
+2023-12-06T15:31:36.929+03:00  INFO 49700 --- [main] com.bc.revan.RevanApplication            : Starting RevanApplication using Java 19 with PID 49700 (C:\Users\Atlas\Desktop\Projects\revan\target\classes started by Atlas in C:\Users\Atlas\Desktop\Projects\revan)
+2023-12-06T15:31:36.931+03:00  INFO 49700 --- [main] com.bc.revan.RevanApplication            : No active profile set, falling back to 1 default profile: "default"
+2023-12-06T15:31:38.474+03:00  INFO 49700 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2023-12-06T15:31:38.476+03:00  INFO 49700 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-12-06T15:31:38.566+03:00  INFO 49700 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 77 ms. Found 0 JPA repository interfaces.
+2023-12-06T15:31:38.588+03:00  INFO 49700 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2023-12-06T15:31:38.590+03:00  INFO 49700 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-12-06T15:31:38.619+03:00  INFO 49700 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 14 ms. Found 0 Redis repository interfaces.
+2023-12-06T15:31:39.595+03:00  INFO 49700 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2023-12-06T15:31:39.609+03:00  INFO 49700 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-06T15:31:39.609+03:00  INFO 49700 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.13]
+2023-12-06T15:31:39.762+03:00  INFO 49700 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-06T15:31:39.762+03:00  INFO 49700 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2765 ms
+2023-12-06T15:31:40.383+03:00  INFO 49700 --- [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2023-12-06T15:31:40.405+03:00  INFO 49700 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
